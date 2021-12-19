@@ -6,6 +6,7 @@ Store and retrieve temperature data for the months of June and December in Oahu,
 ## Results
 ### June Plot:
 <img width="402" alt="June Plot" src="https://user-images.githubusercontent.com/38327290/146679708-8a341498-8512-40e7-9a85-2db63e5f2737.png">
+
 ### December Plot:
 <img width="402" alt="December Plot" src="https://user-images.githubusercontent.com/38327290/146679704-0ba5620c-1946-470d-859f-c8bb7d4d0918.png">
 
